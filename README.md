@@ -41,7 +41,7 @@ This panel highlights the model explanation in two parts:
 - LLM Interpreter sentence for business readability
 - SHAP feature contribution matrix for technical transparency
 
-![Dashboard Preview](docs/images/churn-dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/jamesprabuM/Customer_churn_prediction/main/docs/images/churn-dashboard.png)
 
 ## Tech Stack
 
