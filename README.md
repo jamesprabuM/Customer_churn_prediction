@@ -8,6 +8,10 @@ It combines:
 - LLM-generated interpreter summary
 - Customer segmentation and business cost estimation
 
+## Preview
+
+![Dashboard Preview](https://raw.githubusercontent.com/jamesprabuM/Customer_churn_prediction/main/docs/images/churn-dashboard.png)
+
 ## Quick Links
 
 - [Features](#features)
@@ -40,8 +44,6 @@ It combines:
 This panel highlights the model explanation in two parts:
 - LLM Interpreter sentence for business readability
 - SHAP feature contribution matrix for technical transparency
-
-![Dashboard Preview](https://raw.githubusercontent.com/jamesprabuM/Customer_churn_prediction/main/docs/images/churn-dashboard.png)
 
 ## Tech Stack
 
