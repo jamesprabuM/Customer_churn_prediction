@@ -14,9 +14,22 @@ It combines:
 
 ## Screenshots
 
-### Model Insight Dashboard
+### Application Gallery
 
-![Model Insight Dashboard](./docs/images/churn-dashboard.png)
+#### 1) Main Dashboard
+![Main Dashboard](./docs/images/Screenshot%202026-04-22%20003637.png)
+
+#### 2) Simulator Input Panel
+![Simulator Input Panel](./docs/images/Screenshot%202026-04-22%20003653.png)
+
+#### 3) Prediction Summary View
+![Prediction Summary View](./docs/images/Screenshot%202026-04-22%20003711.png)
+
+#### 4) SHAP Explanation View
+![SHAP Explanation View](./docs/images/Screenshot%202026-04-22%20003723.png)
+
+#### 5) Executive Financial Array
+![Executive Financial Array](./docs/images/Screenshot%202026-04-22%20003733.png)
 
 ## Quick Links
 
