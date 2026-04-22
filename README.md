@@ -10,7 +10,7 @@ It combines:
 
 ## Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/jamesprabuM/Customer_churn_prediction/main/docs/images/churn-dashboard.png)
+![Dashboard Preview](./docs/images/churn-dashboard.png)
 
 ## Quick Links
 
