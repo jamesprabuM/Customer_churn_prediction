@@ -12,6 +12,12 @@ It combines:
 
 ![Dashboard Preview](./docs/images/churn-dashboard.png)
 
+## Screenshots
+
+### Model Insight Dashboard
+
+![Model Insight Dashboard](./docs/images/churn-dashboard.png)
+
 ## Quick Links
 
 - [Features](#features)
